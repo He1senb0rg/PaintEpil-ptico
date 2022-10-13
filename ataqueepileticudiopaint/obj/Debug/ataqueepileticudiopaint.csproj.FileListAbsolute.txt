@@ -1,0 +1,21 @@
+C:\Users\121271\source\repos\ataqueepileticudiopaint\ataqueepileticudiopaint\bin\Debug\ataqueepileticudiopaint.exe.config
+C:\Users\121271\source\repos\ataqueepileticudiopaint\ataqueepileticudiopaint\bin\Debug\ataqueepileticudiopaint.exe
+C:\Users\121271\source\repos\ataqueepileticudiopaint\ataqueepileticudiopaint\bin\Debug\ataqueepileticudiopaint.pdb
+C:\Users\121271\source\repos\ataqueepileticudiopaint\ataqueepileticudiopaint\obj\Debug\ataqueepileticudiopaint.csprojAssemblyReference.cache
+C:\Users\121271\source\repos\ataqueepileticudiopaint\ataqueepileticudiopaint\obj\Debug\ataqueepileticudiopaint.Form1.resources
+C:\Users\121271\source\repos\ataqueepileticudiopaint\ataqueepileticudiopaint\obj\Debug\ataqueepileticudiopaint.Properties.Resources.resources
+C:\Users\121271\source\repos\ataqueepileticudiopaint\ataqueepileticudiopaint\obj\Debug\ataqueepileticudiopaint.csproj.GenerateResource.cache
+C:\Users\121271\source\repos\ataqueepileticudiopaint\ataqueepileticudiopaint\obj\Debug\ataqueepileticudiopaint.csproj.CoreCompileInputs.cache
+C:\Users\121271\source\repos\ataqueepileticudiopaint\ataqueepileticudiopaint\obj\Debug\ataqueepileticudiopaint.exe
+C:\Users\121271\source\repos\ataqueepileticudiopaint\ataqueepileticudiopaint\obj\Debug\ataqueepileticudiopaint.pdb
+C:\Users\Big Boss\Desktop\ataqueepileticudiopaint\ataqueepileticudiopaint\bin\Debug\ataqueepileticudiopaint.exe.config
+C:\Users\Big Boss\Desktop\ataqueepileticudiopaint\ataqueepileticudiopaint\bin\Debug\ataqueepileticudiopaint.exe
+C:\Users\Big Boss\Desktop\ataqueepileticudiopaint\ataqueepileticudiopaint\bin\Debug\ataqueepileticudiopaint.pdb
+C:\Users\Big Boss\Desktop\ataqueepileticudiopaint\ataqueepileticudiopaint\obj\Debug\ataqueepileticudiopaint.csproj.AssemblyReference.cache
+C:\Users\Big Boss\Desktop\ataqueepileticudiopaint\ataqueepileticudiopaint\obj\Debug\ataqueepileticudiopaint.csproj.SuggestedBindingRedirects.cache
+C:\Users\Big Boss\Desktop\ataqueepileticudiopaint\ataqueepileticudiopaint\obj\Debug\ataqueepileticudiopaint.Form1.resources
+C:\Users\Big Boss\Desktop\ataqueepileticudiopaint\ataqueepileticudiopaint\obj\Debug\ataqueepileticudiopaint.Properties.Resources.resources
+C:\Users\Big Boss\Desktop\ataqueepileticudiopaint\ataqueepileticudiopaint\obj\Debug\ataqueepileticudiopaint.csproj.GenerateResource.cache
+C:\Users\Big Boss\Desktop\ataqueepileticudiopaint\ataqueepileticudiopaint\obj\Debug\ataqueepileticudiopaint.csproj.CoreCompileInputs.cache
+C:\Users\Big Boss\Desktop\ataqueepileticudiopaint\ataqueepileticudiopaint\obj\Debug\ataqueepileticudiopaint.exe
+C:\Users\Big Boss\Desktop\ataqueepileticudiopaint\ataqueepileticudiopaint\obj\Debug\ataqueepileticudiopaint.pdb
